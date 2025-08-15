@@ -91,8 +91,8 @@ SOURCES = {
         'post_format': 'scientific_news'
     }
 }
-
-POSTED_LINKS_FILE = 'posted_links1.txt'
+POSTED_LINKS_FILE = '/data/posted_links1.txt'
+# POSTED_LINKS_FILE = 'posted_links1.txt'
 
 # ==============================================================================
 # --- Utility & Fetching Functions (Unchanged) ---
